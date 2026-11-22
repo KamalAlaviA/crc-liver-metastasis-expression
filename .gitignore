@@ -1,0 +1,13 @@
+# Raw GEO download (re-created automatically by GEOparse)
+data/*
+!data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
